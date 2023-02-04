@@ -1,6 +1,6 @@
 # 1.8.9
-.jar files from building https://github.com/CloudClientDev/cloudclient/tree/development/1.8.9/cloudclient as of February 4th, 2023, 01:00.
-To install, first make sure you have Forge 1.8.9 installed. Then, simply go into your mods folder, create a folder named 1.8.9 inside it, and put **cloud-1.8.jar** and any other 1.8.9 forge mods in the new folder.
+.jar files from building https://github.com/CloudClientDev/cloudclient/tree/development/1.8.9/cloudclient as of February 4th, 2023, 17:05 CET.
+To install, first make sure you have Forge 1.8.9 installed. Then, simply go into your mods folder, create a folder named 1.8.9 inside it, and put **cloud-1.8.jar** (NOT cloudmc-1.0-sources.jar) and any other 1.8.9 forge mods in the new folder.
 
 You can build it yourself! Clone the repo from the development branch of the [official Cloud Client GitHub repo](https://github.com/CloudClientDev/cloudclient/tree/development) and follow the instructions for setting up the workspace (not step 6) and building.
 
