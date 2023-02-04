@@ -1,5 +1,7 @@
 # cloudclient-dev-build
-Up-to-date builds from the development branch of [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
+Up-to-date builds from the [development branch of CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient/tree/development)
+
+**NONE OF THE JAR FILES IN THIS REPO ARE MINE. The source code they were built from is linked above and belongs to duplidev, the Cloud Client developer. Instructions on building them yourself are present in the folders!**
 
 Licensed under GPLv3 and LGPLv3
 
